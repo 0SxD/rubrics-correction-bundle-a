@@ -91,7 +91,7 @@ Load 1 sub-skill per turn max.
 
 ---
 
-## domain rules (Mercor project-specific)
+## domain rules (evaluation platform project-specific)
 
 <domain_rules>
 - SP > UT always. Conflict = type "CONFLICTED PROMPTS" in Writer Comments, keep working, defer to SP.
