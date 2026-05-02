@@ -42,6 +42,8 @@ This methodology bundle does not directly cite external papers. The structured r
 - Rubrics as Rewards (RaR), arXiv:2507.17746 - rubric quality and evaluation methodology background
 - Adaptive Precise Boolean Rubrics (Google), arXiv:2503.23339 - boolean-atomic decomposition that motivates the atomic-modify check
 
+See also: [ce-rd-os](https://github.com/0SxD/ce-rd-os) for the broader Trinity rubric scoring framework this bundle composes with.
+
 ## License
 
 CC-BY-4.0. Copyright (c) 2026 Sage / 0SxD.
